@@ -1,3 +1,7 @@
 amir
 emad
+<<<<<<< HEAD
 amir
+=======
+amir
+>>>>>>> 5175d12945d8f73e4c9e1fa267390da63ef1ed3d
